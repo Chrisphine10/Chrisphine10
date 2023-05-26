@@ -1,4 +1,4 @@
-Chrisphine Ondiek Portfolio
+Chrisphine Ondiek
 
 Welcome to my portfolio repository! Here you will find an overview of my software engineering experience and projects, showcasing my skills in Flutter, Firebase, Java, and AWS.
 
